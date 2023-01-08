@@ -1,6 +1,6 @@
  let str="naman"
  let str1=""
-  for(i=N-1;i>=0;i++){
+  for(i=N-1;i>=0;i--){
       str1=str1+str[i]
       
       }
