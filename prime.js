@@ -5,7 +5,7 @@ if(n%i==0){
 factor++;
 }
 }
-if(factor==1){
+if(factor==2){
 console.log("prime number)
 }
 else{
